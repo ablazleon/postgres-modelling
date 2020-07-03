@@ -32,9 +32,11 @@ Code Quality
 
 ## 1. Discuss the purpose of this database in the context of the startup, Sparkify, and their analytical goals.
 
-
+Service logs are proposed to be stored in a db, so to access them easily.
 
 ## 2. State and justify your database schema design and ETL pipeline.
+
+
 ## 3. [Optional] Provide example queries and results for song play analysis.
 
 
